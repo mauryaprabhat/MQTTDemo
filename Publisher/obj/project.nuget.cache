@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2e2xmNQBXRzapic6qjszBOveBEPjZq5RyGETUpUw8xfkBzgfibI/3olxl3QT88Lk0iDRqj/gNUn/WcJ6jRIkw==",
+  "success": true,
+  "projectFilePath": "C:\\EmailNotificationConfigurationSolution\\MQTTDemo\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INPRMAU\\.nuget\\packages\\mqttnet\\4.2.0.706\\mqttnet.4.2.0.706.nupkg.sha512"
+  ],
+  "logs": []
+}
